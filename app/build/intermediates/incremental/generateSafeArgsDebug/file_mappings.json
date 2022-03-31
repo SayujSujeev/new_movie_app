@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.sayuj.themoviesdb.ui.home.HomeFragmentDirections","com.sayuj.themoviesdb.ui.detail.DetailFragmentArgs","com.sayuj.themoviesdb.ui.favorites.FavoritesFragmentDirections","com.sayuj.themoviesdb.ui.search.SearchFragmentDirections"]}]

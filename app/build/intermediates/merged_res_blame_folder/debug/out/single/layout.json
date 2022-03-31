@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorites.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_top_rated.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\network_state_item.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\network_state_item.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_popular.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detail.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_up_coming.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_up_coming.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_now_playing.xml",
+        "source": "C:\\android stdio works\\qb\\movie_app\\movie_app\\app\\src\\main\\res\\layout\\fragment_now_playing.xml"
+    }
+]
